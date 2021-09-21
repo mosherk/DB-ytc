@@ -3,7 +3,7 @@ https://www.bilibili.com/video/BV1gU4y157jx?spm_id_from=333.999.0.0
 https://github.com/cuixiaorui
 https://github.com/cuixiaorui/ls-zj
 https://github.com/cuixiaorui/mini-vite
-
+https://github.com/cuixiaorui/guide-vite
 
 
 

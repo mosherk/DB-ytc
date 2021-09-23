@@ -10,6 +10,12 @@ program.version(require('../package.json').version)
 program.command('init <name>')
     .description('init project')
     .action(require('../lib/init'))//订制命令的执行
+
+program.command('refresh')
+    .description('refresh router...')
+    .action(require('../lib/refresh'))
+
+
 program.parse(process.argv)
 
 

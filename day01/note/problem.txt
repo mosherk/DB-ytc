@@ -1,0 +1,19 @@
+之前运行没有问题，今天却出现：
+[nodemon] 2.0.7
+[nodemon] to restart at any time, enter `rs`
+[nodemon] watching path(s): *.*
+[nodemon] watching extensions: js,mjs,json
+[nodemon] starting `node 05_http00.js index.js`
+internal/modules/cjs/loader.js:896
+  throw err;
+  ^
+
+Error: Cannot find module 'D:\study\coden\BD-youthtrainingcamp\Day01\index.js'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:893:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:743:27)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+    at internal/main/run_main_module.js:17:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+[nodemon] app crashed - waiting for file changes before starting...

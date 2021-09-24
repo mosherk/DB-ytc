@@ -17,3 +17,8 @@ Error: Cannot find module 'D:\study\coden\BD-youthtrainingcamp\Day01\index.js'
   requireStack: []
 }
 [nodemon] app crashed - waiting for file changes before starting...
+
+解决：目录问题
+
+
+

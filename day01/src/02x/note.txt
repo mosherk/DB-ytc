@@ -1,0 +1,16 @@
+持久化
+业务模型 ==》数据库
+        =》API  =》UI
+
+用户 =》用户CRUD API Restful服务 =》Aminui
+
+
+//
+pathon Django
+java jeecg 代码生成器 动态编程
+js ketstongJS 代码平台
+
+//动态编程
+根据文件夹 自动加载模块
+自动产生路由 --注册通配路由
+
